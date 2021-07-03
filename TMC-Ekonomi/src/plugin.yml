@@ -1,0 +1,6 @@
+name: TMC-Ekonomi
+main: tr.beyazpolis.ekonomi.TaleEkonomi
+version: 1.0.0
+author: BeyazPolis
+description: BeyazPolis
+depend: [TMC-Librarys,TMC-Database]
